@@ -11,7 +11,7 @@ Looking for my first full-time job as a SW engineer.
   * I'm aiming at a future full stack dev position so I've been working on HTML, CSS and Javascript to have a good starting base.
   * Going to shift focus soon to ReactJS for my degree's final project.
   * Improving python skills to improve SmartScript's results.
-  * Getting more involved in _**open source**_ projects. So far, I contriubuted to sevral repositories by opening issues and to others by reviewing and adding my own PRs. But I would like to find a bigger project to be part of consistently.
+  * Getting more involved in _**open source**_ projects. So far, I contriubuted to sevral repositories by opening issues and to others by reviewing and adding my own PRs. But I would like be a part of a bigger project consistently.
 
  📫 Talk to me: 
   * [Linkedin](https://www.linkedin.com/in/noah-solomon-b40573135/)
