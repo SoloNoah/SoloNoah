@@ -18,5 +18,6 @@ Looking for my first full-time job as a SW engineer.
   * Email: noahsolo30@gmail.com
 
  :musical_note: A lil bit extra
+ 
   On my free time I love to play my guitar and work on my cosplay projects. So if you're looking to jam or work together on some cosplay projects? Talk to me :smiley: Always got time for those hobbies! 
 
