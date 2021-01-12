@@ -22,7 +22,5 @@ Looking for my first full-time job as a SW engineer.
   On my free time I love to play my guitar :metal: and work on my cosplay projects. So if you're looking to jam or work together on some cosplay projects? Talk to me :smiley: Always got time for those hobbies! 
 
 
- :raised_hands: Some stats
-
-   ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=SoloNoah&count_private=true)
+ 
 
