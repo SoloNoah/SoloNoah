@@ -15,7 +15,7 @@ Looking for my first full-time job as a SW engineer.
 
  :raised_hands: Some stats
 
-   ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=SoloNoah&count_private=true)
+  * ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=SoloNoah&count_private=true)
 
  📫 Talk to me: 
   * [Linkedin](https://www.linkedin.com/in/noah-solomon-b40573135/)
