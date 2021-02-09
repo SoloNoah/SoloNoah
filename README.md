@@ -4,8 +4,9 @@ Looking for my first full-time job as a SW engineer.
 
  :sparkles: Main focus:
 
-   * [SmartScript](https://github.com/AvielCo/Final-Project) is my final prject as a part of my curriculum. Its main focus is building a program that's capable of classifying ancient hebrew scripts. Later on this year the focus will shift towards combining **ReactJS and Django** to create a website that will be available for paleographers to use in order to enable them to classify Hebrew texts more conveniently.
+   * [SmartScript](https://github.com/AvielCo/Final-Project) is my final project as a part of my curriculum. Its main focus is building a program that's capable of classifying ancient hebrew scripts. Later on this year the focus will shift towards combining **ReactJS and Django** to create a website that will be available for paleographers to use in order to enable them to classify Hebrew texts more conveniently.
    * My portfolio website. I decided to develop using **HTML, CSS and Javascript** only to have stronger foundations and focus on making the website responsive.
+   * Scholarship's project website. The project's aim is helping the senior citizens with day to day activities by providing them a device to strengthen their leg muscles. My main goal is developing this website to be as accessable as possible for the senior users.
    
  :thinking: Side hustle
   * My goal is to become a FullStack dev in the future. Therefore, I've been working on HTML, CSS and Javascript to have a good starting base.
