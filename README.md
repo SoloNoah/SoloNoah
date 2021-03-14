@@ -10,7 +10,7 @@ Looking for my first full-time job as a SW engineer.
    
  :thinking: Side hustle
   * My goal is to become a FullStack dev in the future. Therefore, I've been working on HTML, CSS and Javascript to have a good starting base.
-  * Shifting focus soon to ReactJS and Django for my degree's final project.
+  * Shifting focus soon to ReactJS and MongoDB for my degree's final project.
   * Improving Python skills to improve SmartScript's results.
   * Getting more involved in _**open source**_ projects. So far, I've contributed to several repositories by opening issues and to others by reviewing and adding my own PRs. However, I would like be a part of a bigger project consistently.
 
