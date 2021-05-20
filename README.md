@@ -5,13 +5,11 @@ Looking for my first full-time job as a SW engineer.
  :sparkles: Main focus:
 
    * [SmartScript](https://github.com/AvielCo/Final-Project) is my final project as a part of my curriculum. Its main focus is building a program that's capable of classifying ancient hebrew scripts. Later on this year the focus will shift towards combining **ReactJS and Django** to create a website that will be available for paleographers to use in order to enable them to classify Hebrew texts more conveniently.
-   * My portfolio website. I decided to develop using **HTML, CSS and Javascript** only to have stronger foundations and focus on making the website responsive.
-   * Scholarship's project website. The project's aim is helping the senior citizens with day to day activities by providing them a device to strengthen their leg muscles. My main goal is developing this website to be as accessable as possible for the senior users.
+   * Volunteering at `Coda -  Developing Meaning`. I am taking part in deveoping a web app for chronic patients to help them track different measurements. In this project I am improving my skills with **React** and **Firebase**. Additionally, I started learning how to work with **Typescript** with **Redux** while working on this project .
    
  :thinking: Side hustle
   * My goal is to become a FullStack dev in the future. Therefore, I've been working on HTML, CSS and Javascript to have a good starting base.
-  * Shifting focus soon to ReactJS and MongoDB for my degree's final project.
-  * Improving Python skills to improve SmartScript's results.
+  * Working on MERN stack skills.
   * Getting more involved in _**open source**_ projects. So far, I've contributed to several repositories by opening issues and to others by reviewing and adding my own PRs. However, I would like be a part of a bigger project consistently.
 
  📫 Talk to me: 
