@@ -4,7 +4,7 @@ Looking for my first full-time job as a SW engineer.
 
  :sparkles: Main focus:
 
-   * [SmartScript](https://github.com/AvielCo/Final-Project) is my final project as a part of my curriculum. Its main focus is building a program that's capable of classifying ancient hebrew scripts. Later on this year the focus will shift towards combining **ReactJS and Django** to create a website that will be available for paleographers to use in order to enable them to classify Hebrew texts more conveniently.
+   * [SmartScript](https://github.com/AvielCo/Final-Project) is my final project as a part of my curriculum. Its main focus is building a program that's capable of classifying ancient hebrew scripts. Later on this year the focus will shift towards combining **ReactJS and MongoDB** to create a website that will be available for paleographers to use in order to enable them to classify Hebrew texts more conveniently.
    * Volunteering at `Coda -  Developing Meaning`. I am taking part in deveoping a web app for chronic patients to help them track different measurements. In this project I am improving my skills with **React** and **Firebase**. Additionally, I started learning how to work with **Typescript** with **Redux** while working on this project .
    
  :thinking: Side hustle
