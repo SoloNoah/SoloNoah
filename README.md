@@ -1,6 +1,6 @@
  Hello there, I'm **Noah**.
-4th year Software Engineering student.
-Looking for my first full-time job as a SW engineer.
+Software Engineering graduate.
+Looking for my first full-time job as a Frontend/Fullstack developer.
 
  :sparkles: Main focus:
   * Working on MERN and MEAN stack skills.
