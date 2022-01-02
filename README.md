@@ -1,6 +1,4 @@
  Hello there, I'm **Noah**.
-Software Engineering graduate.
-Looking for my first full-time job as a Frontend/Fullstack developer.
 
 
  📫 Talk to me: 
